@@ -99,4 +99,3 @@ MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Need help adding Docker support, customizing screenshots, or swapping databases? Just let me know and I’ll enhance this further!
