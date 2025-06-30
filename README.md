@@ -1,5 +1,3 @@
-[![github.com/aminmalekzade...](https://images.openai.com/thumbnails/url/_KnapXicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw72MTHO9TAwj4qvcCsOMnA19yqJTAk0KXeuMIj0SS_Jj8_OT812TTOxLLH0zAkPSMvKsgwsc6-KSjJIK1crBgAERSna)](https://github.com/aminmalekzadeh/chat-app-frontend)
-
 # 🚀 Chat App 2.0
 
 A full-stack, real-time chat application built with React (frontend) and Node.js + Express (backend). It supports group chats, file and media sharing, user authentication, and features a clean, responsive design.
